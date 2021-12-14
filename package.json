@@ -40,7 +40,11 @@
     "workbox-webpack-plugin": "^3.3.1"
   },
   "dependencies": {
-    "lit-element": "^3.0.2",
-    "@webcomponents/webcomponentsjs": "^2.6.0"
+    "@vaadin/vaadin-button": "^22.0.1",
+    "@vaadin/vaadin-checkbox": "^22.0.1",
+    "@vaadin/vaadin-radio-button": "^22.0.1",
+    "@vaadin/vaadin-text-field": "^22.0.1",
+    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "lit-element": "^3.0.2"
   }
 }
